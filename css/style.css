@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Barra_nav_principal{
+   /* background-image: url(../Assets/Imagenes/Nuves_lilas.png);*/
+    border-top-style: none;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 10px 10px;
+    align-items: center;
+    
+}
+
+#Fondo_principal{
+    /*background-image: url(../Assets/Imagenes/Nuves_lilas.png);*/
+
+    border-top-style: none;
+    background-repeat: none;
+    background-size: cover;
+    background-image: linear-gradient(275deg, #ca70e2 0%, #ca70e2 24%, #FFF 100%);
+}
+
+
+
+body header nav ul li{
+    font-size: 50px;
+    text-decoration: none;
+    margin: 10px 20px;
+
+}
+body header nav ul li a{
+    text-decoration: none;
+
+}
+
+
+p{
+    font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
+    letter-spacing: 0.05em;
+}
+
+.chakras_Corona{
+    position: relative;
+    bottom: 128px;
+    left: 249px;
+    font-size: 50px;
+}
+
+.chakras_Tercer_ojo{
+    position: relative;
+    bottom: 128px;
+    left: 249px;
+    font-size: 50px;
+}
+
+.Chakra_Laringeo{
+    position: relative;
+    bottom: 128px;
+    left: 249px;
+    font-size: 50px;
+}
+
+.Chakra_del_Plexo_Cardiaco{
+    position: relative;
+    bottom: 128px;
+    left: 249px;
+    font-size: 50px;
+}
+
+.Chakra_del_Plexo_Solar{
+    position: relative;
+    bottom: 128px;
+    left: 249px;
+    font-size: 50px;
+}
+
+.Chakra_Sexual{
+    position: relative;
+    bottom: 128px;
+    left: 249px;
+    font-size: 50px;
+}
+
+.Chakra_Raiz{
+    position: relative;
+    bottom: 128px;
+    left: 249px;
+    font-size: 50px;
+}
+
+
+footer {
+    background-color: rgb(183, 53, 215,0.7);
+    padding: 50px;
+}
+
+.main_incio{
+    display: flex;
+}
+
+.parro_flex{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px;
+}
+
+.parro_flex p{
+    padding: 10px 10px;
+}
+
+.logo_principal{
+    display: flex;
+    left: 10px;
+}
+
+.Terapias_position{
+    display: flex;
+    justify-content:space-around;
+
+}
+
+.Texto_terapia{
+    display: flex;
+    justify-content:space-around;
+    padding: 20px;
+}
+
+.Imagen_redonda{
+    border-radius:150px;
+}
+
+.Imagen_position{
+    display: flex;
+    justify-content:space-around;
+    padding: 20px 20px;
+    margin: 0px;
+}
+
+.Titulos{
+    font-size: 50px;
+    font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
+    letter-spacing: 0.05em;
+    text-align: center;
+}
+
+.parrafos_textos{
+    padding: 50px;
+}
+
+i{
+    color: #00e003;
+    font-size: 60px;
+    position: fixed;
+    right: 20px;
+    top: 570px;
+}
+/*
+.chackra_corona_position{
+    position: absolute;
+}*/
