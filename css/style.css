@@ -268,6 +268,9 @@ i{
    .Chackras_flex{
         display: contents;
     }
+    .nav_detalles {
+        font-size: 10px;
+    }
     .chakras_Corona{
         height: 327px;
       /*  Display: contents;
@@ -355,8 +358,7 @@ i{
     }
 
     .Chakra_Raiz{
-        height: 327pxgit;
-      /*  Display: contents;*/
+        height: 327px;
     }
     .Chakra_Raiz h2{
         padding: 35px 4px 20px 208px;
@@ -367,53 +369,25 @@ i{
         padding: 40px 0px 0px 0px;
         display: contents;         
     }
+}
 
-    .nav_detalles {
-        display: block;
-        padding: 0px;
-        font-size: 10px;
-        font-weight: var(--bs-nav-link-font-weight);
-        color: rgb(95 85 9 / 65%);
-        text-decoration: none;
-        font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
-        transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
-    
-    }
+.logo_principal {
+    display: none;
+}
 
-    .logo_principal {
-        display: none;
-    }
+footer {
+    background-color: rgb(183, 53, 215,0.7);
+    padding: 20px;
+    height: 256px;
+}
+.footer_mapa{
+    display: none;
 
-    footer {
-        background-color: rgb(183, 53, 215,0.7);
-        padding: 20px;
-        height: 256px;
-    }
-    .footer_mapa{
-        display: none;
-    
-    }
+}
       
-}
 
 
-.nav_detalles {
-    display: block;
-    font-size: 30px;
-    font-weight: var(--bs-nav-link-font-weight);
-    color: rgb(95 85 9 / 65%);
-    text-decoration: none;
-    font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
-
-}
-
-/*.nav_flex_index{
-
-    display: flex;
-    flex-wrap: wrap;
-}*/
-
+ 
 .footer_flex{
     display: flex;
     flex-wrap: wrap;
@@ -469,3 +443,16 @@ i{
     flex-wrap: wrap;
     justify-content: center;
 }
+
+
+.nav_detalles {
+    padding: 0px;
+    font-size: 30px;
+    font-weight: var(--bs-nav-link-font-weight);
+    color: rgb(95 85 9 / 65%);
+    text-decoration: none;
+    font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+
+}
+
