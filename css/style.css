@@ -7,6 +7,10 @@ h1{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    padding-top: 10px;
+}
+.h1_text{
+    padding-top: 50px;
 }
 
 .Barra_nav_principal{
@@ -52,7 +56,8 @@ p{
 
 footer {
     background-color: rgb(183, 53, 215,0.7);
-    padding: 50px;
+    padding: 20px;
+    height: 190px;
 }
 
 .main_incio{
@@ -70,8 +75,7 @@ footer {
 }
 
 .logo_principal{
-    display: flex;
-    left: 10px;
+    display: block;
 }
 
 .Terapias_position{
@@ -351,7 +355,7 @@ i{
     }
 
     .Chakra_Raiz{
-        height: 327px;
+        height: 327pxgit;
       /*  Display: contents;*/
     }
     .Chakra_Raiz h2{
@@ -363,17 +367,105 @@ i{
         padding: 40px 0px 0px 0px;
         display: contents;         
     }
+
+    .nav_detalles {
+        display: block;
+        padding: 0px;
+        font-size: 10px;
+        font-weight: var(--bs-nav-link-font-weight);
+        color: rgb(95 85 9 / 65%);
+        text-decoration: none;
+        font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
+        transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    
+    }
+
+    .logo_principal {
+        display: none;
+    }
+
+    footer {
+        background-color: rgb(183, 53, 215,0.7);
+        padding: 20px;
+        height: 256px;
+    }
+    .footer_mapa{
+        display: none;
+    
+    }
       
 }
 
 
 .nav_detalles {
     display: block;
-    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
-    font-size: var(--bs-nav-link-font-size);
+    font-size: 30px;
     font-weight: var(--bs-nav-link-font-weight);
     color: rgb(95 85 9 / 65%);
     text-decoration: none;
     font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+
+}
+
+/*.nav_flex_index{
+
+    display: flex;
+    flex-wrap: wrap;
+}*/
+
+.footer_flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 67px;
+    justify-content: space-between;
+}
+
+.footer_icons_flex{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 37px;
+}
+
+.footer_datos_flex{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 35px;
+}
+
+.footer_datos_flex a{
+    font-size: 12px;
+}
+
+.footer_datos_p_flex{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+.footer_p_datos{
+    height: 10px;
+    width: 10px;
+
+}
+
+.footer_des{
+    font-size: 15px;
+
+}
+
+.header_flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 124px;
+}
+
+.reiki{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
