@@ -480,7 +480,7 @@ i{
 
     .nav_detalles {
         padding: 0px;
-        font-size: 10px;
+        font-size: 20px;
         font-weight: var(--bs-nav-link-font-weight);
         color: rgb(95 85 9 / 65%);
         text-decoration: none;
@@ -492,6 +492,6 @@ i{
     body header nav ul li {
         font-size: 50px;
         text-decoration: none;
-        margin: -25px 20px;
+        margin: -5px 20px;
     }
 }
