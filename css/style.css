@@ -495,3 +495,15 @@ i{
         margin: -5px 20px;
     }
 }
+
+
+.icon_header{
+    width: 84px;
+    height: 103px;
+    padding-top: 36px;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
