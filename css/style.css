@@ -268,9 +268,6 @@ i{
    .Chackras_flex{
         display: contents;
     }
-    .nav_detalles {
-        font-size: 10px;
-    }
     .chakras_Corona{
         height: 327px;
       /*  Display: contents;
@@ -369,22 +366,28 @@ i{
         padding: 40px 0px 0px 0px;
         display: contents;         
     }
-}
+    .footer_mapa{
+        display: none;
+    
+    }
 
-.logo_principal {
-    display: none;
-}
+    .logo_principal {
+        display: none;
+    }
+    
+    footer {
+        background-color: rgb(183, 53, 215,0.7);
+        padding: 20px;
+        height: 256px;
 
-footer {
-    background-color: rgb(183, 53, 215,0.7);
-    padding: 20px;
-    height: 256px;
-}
-.footer_mapa{
-    display: none;
-
-}
+    
       
+}
+
+}
+
+
+
 
 
  
@@ -456,3 +459,39 @@ footer {
 
 }
 
+.reiki_web{
+    display: block;
+}
+
+.reiki_mobile{
+    display: none;
+}
+
+
+@media screen and (max-width: 576px) {
+
+    .reiki_web{
+        display: none;
+    }
+
+    .reiki_mobile{
+        display: block;
+    }
+
+    .nav_detalles {
+        padding: 0px;
+        font-size: 10px;
+        font-weight: var(--bs-nav-link-font-weight);
+        color: rgb(95 85 9 / 65%);
+        text-decoration: none;
+        font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
+        transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    
+    }
+
+    body header nav ul li {
+        font-size: 50px;
+        text-decoration: none;
+        margin: -25px 20px;
+    }
+}
