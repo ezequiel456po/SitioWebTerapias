@@ -1,0 +1,282 @@
+.chakras_Coroa{
+    background-image: nth($colores_chakras, 1 );
+    @include  chakras(nth($espacios_medidas,23),
+                      nth($display_list,2));
+    h2{
+        @include chakras_h2(nth($espacios_medidas,7), 
+                            nth($colores,2),  
+                            nth($padding_list,2));
+      p{
+        @include chakras_p(nth($espacios_medidas,7), 
+                           nth($espacios_medidas,3),  
+                           nth($padding_list,1),
+                           nth($display_list,1));
+      }
+    }    
+}
+
+.chakras_Tercer_ojo{
+    background-image: nth($colores_chakras, 2 );
+    @include  chakras(nth($espacios_medidas,23),
+                      nth($display_list,2));
+    h2{
+        @include chakras_h2(nth($espacios_medidas,7), 
+                            nth($colores,2),  
+                            nth($padding_list,2));
+      p{
+        @include chakras_p(nth($espacios_medidas,7), 
+                           nth($espacios_medidas,3),  
+                           nth($padding_list,1),
+                           nth($display_list,1));
+      }
+    }    
+}
+
+.Chakra_Laringeo{
+    background-image: nth($colores_chakras, 3 );
+    @include  chakras(nth($espacios_medidas,23),
+                      nth($display_list,2));
+    h2{
+        @include chakras_h2(nth($espacios_medidas,7), 
+                            nth($colores,2),  
+                            nth($padding_list,2));
+      p{
+        @include chakras_p(nth($espacios_medidas,7), 
+                           nth($espacios_medidas,3),  
+                           nth($padding_list,1),
+                           nth($display_list,1));
+      }
+    }    
+}
+
+.Chakra_del_Plexo_Cardiaco{
+    background-image: nth($colores_chakras, 3 );
+    @include  chakras(nth($espacios_medidas,23),
+                      nth($display_list,2));
+    h2{
+        @include chakras_h2(nth($espacios_medidas,7), 
+                            nth($colores,2),  
+                            nth($padding_list,2));
+      p{
+        @include chakras_p(nth($espacios_medidas,7), 
+                           nth($espacios_medidas,3),  
+                           nth($padding_list,1),
+                           nth($display_list,1));
+      }
+    }    
+}
+
+.Chakra_del_Plexo_Cardiaco{
+    background-image: nth($colores_chakras, 4 );
+    @include  chakras(nth($espacios_medidas,23),
+                      nth($display_list,2));
+    h2{
+        @include chakras_h2(nth($espacios_medidas,7), 
+                            nth($colores,2),  
+                            nth($padding_list,2));
+      p{
+        @include chakras_p(nth($espacios_medidas,7), 
+                           nth($espacios_medidas,3),  
+                           nth($padding_list,1),
+                           nth($display_list,1));
+      }
+    }    
+}
+
+
+.Chakra_del_Plexo_Solar{
+    background-image: nth($colores_chakras, 5 );
+    @include  chakras(nth($espacios_medidas,23),
+                      nth($display_list,2));
+    h2{
+        @include chakras_h2(nth($espacios_medidas,7), 
+                            nth($colores,2),  
+                            nth($padding_list,2));
+      p{
+        @include chakras_p(nth($espacios_medidas,7), 
+                           nth($espacios_medidas,3),  
+                           nth($padding_list,1),
+                           nth($display_list,1));
+      }
+    }    
+}
+
+.Chakra_Sexual{
+    background-image: nth($colores_chakras, 6 );
+    @include  chakras(nth($espacios_medidas,23),
+                      nth($display_list,2));
+    h2{
+        @include chakras_h2(nth($espacios_medidas,7), 
+                            nth($colores,2),  
+                            nth($padding_list,2));
+      p{
+        @include chakras_p(nth($espacios_medidas,7), 
+                           nth($espacios_medidas,3),  
+                           nth($padding_list,1),
+                           nth($display_list,1));
+      }
+    }    
+}
+
+.Chakra_Raiz{
+    background-image: nth($colores_chakras, 7 );
+    @include  chakras(nth($espacios_medidas,23),
+                      nth($display_list,2));
+    h2{
+        @include chakras_h2(nth($espacios_medidas,7), 
+                            nth($colores,2),  
+                            nth($padding_list,2));
+      p{
+        @include chakras_p(nth($espacios_medidas,7), 
+                           nth($espacios_medidas,3),  
+                           nth($padding_list,1),
+                           nth($display_list,1));
+      }
+    }    
+}
+
+@media screen and (max-width: nth($espacios_medidas,22)){
+    .chakras_Corona{
+        background-image: nth($colores_chakras, 1 );
+        @include  chakras(nth($espacios_medidas,23),
+                          nth($display_list,2));
+        h2{
+            @include chakras_h2(nth($espacios_medidas,7), 
+                                nth($colores,2),  
+                                nth($padding_list,2));
+          p{
+            @include chakras_p(nth($espacios_medidas,7), 
+                               nth($espacios_medidas,3),  
+                               nth($padding_list,1),
+                               nth($display_list,1));
+          }
+        }    
+    }
+    .chakras_Tercer_ojo{
+        background-image: nth($colores_chakras, 2 );
+        @include  chakras(nth($espacios_medidas,23),
+                          nth($display_list,2));
+        h2{
+            @include chakras_h2(nth($espacios_medidas,7), 
+                                nth($colores,2),  
+                                nth($padding_list,2));
+          p{
+            @include chakras_p(nth($espacios_medidas,7), 
+                               nth($espacios_medidas,3),  
+                               nth($padding_list,1),
+                               nth($display_list,1));
+          }
+        }    
+    }
+    .Chakra_Laringeo{
+        background-image: nth($colores_chakras, 3 );
+        @include  chakras(nth($espacios_medidas,23),
+                          nth($display_list,2));
+        h2{
+            @include chakras_h2(nth($espacios_medidas,7), 
+                                nth($colores,2),  
+                                nth($padding_list,2));
+          p{
+            @include chakras_p(nth($espacios_medidas,7), 
+                               nth($espacios_medidas,3),  
+                               nth($padding_list,1),
+                               nth($display_list,1));
+          }
+        }    
+    }
+    .Chakra_del_Plexo_Cardiaco{
+        background-image: nth($colores_chakras, 4 );
+        @include  chakras(nth($espacios_medidas,23),
+                          nth($display_list,2));
+        h2{
+            @include chakras_h2(nth($espacios_medidas,7), 
+                                nth($colores,2),  
+                                nth($padding_list,2));
+          p{
+            @include chakras_p(nth($espacios_medidas,7), 
+                               nth($espacios_medidas,3),  
+                               nth($padding_list,1),
+                               nth($display_list,1));
+          }
+        }    
+    }
+    .Chakra_del_Plexo_Solar{
+        background-image: nth($colores_chakras, 5 );
+        @include  chakras(nth($espacios_medidas,23),
+                          nth($display_list,2));
+        h2{
+            @include chakras_h2(nth($espacios_medidas,7), 
+                                nth($colores,2),  
+                                nth($padding_list,2));
+          p{
+            @include chakras_p(nth($espacios_medidas,7), 
+                               nth($espacios_medidas,3),  
+                               nth($padding_list,1),
+                               nth($display_list,1));
+          }
+        }    
+    }
+    .Chakra_Sexual{
+        background-image: nth($colores_chakras, 6 );
+        @include  chakras(nth($espacios_medidas,23),
+                          nth($display_list,2));
+        h2{
+            @include chakras_h2(nth($espacios_medidas,7), 
+                                nth($colores,2),  
+                                nth($padding_list,2));
+          p{
+            @include chakras_p(nth($espacios_medidas,7), 
+                               nth($espacios_medidas,3),  
+                               nth($padding_list,1),
+                               nth($display_list,1));
+          }
+        }    
+    }
+    .Chakra_Raiz{
+        background-image: nth($colores_chakras, 7 );
+        @include  chakras(nth($espacios_medidas,23),
+                          nth($display_list,2));
+        h2{
+            @include chakras_h2(nth($espacios_medidas,7), 
+                                nth($colores,2),  
+                                nth($padding_list,2));
+          p{
+            @include chakras_p(nth($espacios_medidas,7), 
+                               nth($espacios_medidas,3),  
+                               nth($padding_list,1),
+                               nth($display_list,1));
+          }
+        }    
+    }
+
+    .Chackras_flex{
+      display: nth($display_list,4);
+  }
+}
+
+.Chackras_flex{
+  display: nth($display_list,1);
+  flex-wrap: wrap;
+  justify-content:space-between;
+}
+
+
+/*
+@for $i from 1 through 7 {
+    .chakras_Corona:{
+        background-image: nth($colores_chakras, $i );
+        @include  chakras(nth($espacios_medidas,23),
+                          nth($display_list,2));
+        h2{
+            @include chakras_h2(nth($espacios_medidas,7), 
+                                nth($colores,2),  
+                                nth($padding_list,2));
+          p{
+            @include chakras_p(nth($espacios_medidas,7), 
+                               nth($espacios_medidas,3),  
+                               nth($padding_list,1),
+                               nth($display_list,1));
+          }
+        }    
+    }
+}*/

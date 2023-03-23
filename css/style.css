@@ -1,509 +1,496 @@
-*{
-    margin: 0;
-    padding: 0;
+.chakras_Coroa {
+  background-image: linear-gradient(269deg, #f086ee 0%, #f086ee 24%, #FFF 100%);
+  height: 700px;
+  display: block;
+}
+.chakras_Coroa h2 {
+  font-size: 20px;
+  color: #484537;
+  padding: 35px 10px 0px 10px;
+}
+.chakras_Coroa h2 p {
+  font-size: 20px;
+  width: 5px;
+  padding: 40px 0px 0px 0px;
+  display: flex;
 }
 
-h1{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding-top: 10px;
+.chakras_Tercer_ojo {
+  background-image: linear-gradient(269deg, #2a47a3 0%, #2a47a3 24%, #FFF 100%);
+  height: 700px;
+  display: block;
 }
-.h1_text{
-    padding-top: 50px;
+.chakras_Tercer_ojo h2 {
+  font-size: 20px;
+  color: #484537;
+  padding: 35px 10px 0px 10px;
 }
-
-.Barra_nav_principal{
-   /* background-image: url(../Assets/Imagenes/Nuves_lilas.png);*/
-    border-top-style: none;
-    background-size: cover;
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    list-style: none;
-    padding: 10px 10px;
-    align-items: center;
-    
+.chakras_Tercer_ojo h2 p {
+  font-size: 20px;
+  width: 5px;
+  padding: 40px 0px 0px 0px;
+  display: flex;
 }
 
-#Fondo_principal{
-    /*background-image: url(../Assets/Imagenes/Nuves_lilas.png);*/
-
-    border-top-style: none;
-    background-repeat: none;
-    background-size: cover;
-    background-image: linear-gradient(275deg, #ca70e2 0%, #ca70e2 24%, #FFF 100%);
+.Chakra_Laringeo {
+  background-image: linear-gradient(269deg, #82c6eb 0%, #82c6eb 24%, #FFF 100%);
+  height: 700px;
+  display: block;
+}
+.Chakra_Laringeo h2 {
+  font-size: 20px;
+  color: #484537;
+  padding: 35px 10px 0px 10px;
+}
+.Chakra_Laringeo h2 p {
+  font-size: 20px;
+  width: 5px;
+  padding: 40px 0px 0px 0px;
+  display: flex;
 }
 
-
-
-body header nav ul li{
-    font-size: 50px;
-    text-decoration: none;
-    margin: 10px 20px;
-
+.Chakra_del_Plexo_Cardiaco {
+  background-image: linear-gradient(269deg, #82c6eb 0%, #82c6eb 24%, #FFF 100%);
+  height: 700px;
+  display: block;
 }
-body header nav ul li a{
-    text-decoration: none;
-
+.Chakra_del_Plexo_Cardiaco h2 {
+  font-size: 20px;
+  color: #484537;
+  padding: 35px 10px 0px 10px;
 }
-
-
-p{
-    font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
-    letter-spacing: 0.05em;
+.Chakra_del_Plexo_Cardiaco h2 p {
+  font-size: 20px;
+  width: 5px;
+  padding: 40px 0px 0px 0px;
+  display: flex;
 }
 
-footer {
-    background-color: rgb(183, 53, 215,0.7);
-    padding: 20px;
-    height: 190px;
+.Chakra_del_Plexo_Cardiaco {
+  background-image: linear-gradient(269deg, #67c68e 0%, #67c68e 24%, #FFF 100%);
+  height: 700px;
+  display: block;
+}
+.Chakra_del_Plexo_Cardiaco h2 {
+  font-size: 20px;
+  color: #484537;
+  padding: 35px 10px 0px 10px;
+}
+.Chakra_del_Plexo_Cardiaco h2 p {
+  font-size: 20px;
+  width: 5px;
+  padding: 40px 0px 0px 0px;
+  display: flex;
 }
 
-.main_incio{
-    display: flex;
+.Chakra_del_Plexo_Solar {
+  background-image: linear-gradient(269deg, #fdd06b 0%, #fdd06b 24%, #FFF 100%);
+  height: 700px;
+  display: block;
+}
+.Chakra_del_Plexo_Solar h2 {
+  font-size: 20px;
+  color: #484537;
+  padding: 35px 10px 0px 10px;
+}
+.Chakra_del_Plexo_Solar h2 p {
+  font-size: 20px;
+  width: 5px;
+  padding: 40px 0px 0px 0px;
+  display: flex;
 }
 
-.parro_flex{
-    display: flex;
-    flex-direction: column;
-    padding: 10px 10px;
+.Chakra_Sexual {
+  background-image: linear-gradient(269deg, #f7b072 0%, #f7b072 24%, #FFF 100%);
+  height: 700px;
+  display: block;
+}
+.Chakra_Sexual h2 {
+  font-size: 20px;
+  color: #484537;
+  padding: 35px 10px 0px 10px;
+}
+.Chakra_Sexual h2 p {
+  font-size: 20px;
+  width: 5px;
+  padding: 40px 0px 0px 0px;
+  display: flex;
 }
 
-.parro_flex p{
-    padding: 10px 10px;
+.Chakra_Raiz {
+  background-image: linear-gradient(269deg, #e67177 0%, #e67177 24%, #FFF 100%);
+  height: 700px;
+  display: block;
+}
+.Chakra_Raiz h2 {
+  font-size: 20px;
+  color: #484537;
+  padding: 35px 10px 0px 10px;
+}
+.Chakra_Raiz h2 p {
+  font-size: 20px;
+  width: 5px;
+  padding: 40px 0px 0px 0px;
+  display: flex;
 }
 
-.logo_principal{
-    display: block;
-}
-
-.Terapias_position{
-    display: flex;
-    justify-content:space-around;
-
-}
-
-.Texto_terapia{
-    display: flex;
-    justify-content:space-around;
-    padding: 20px;
-}
-
-.Imagen_redonda{
-    border-radius:150px;
-}
-
-.Imagen_position{
-    display: flex;
-    justify-content:space-around;
-    padding: 20px 20px;
-    margin: 0px;
-}
-
-.Titulos{
-    font-size: 50px;
-    font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
-    letter-spacing: 0.05em;
-    text-align: center;
-}
-
-.parrafos_textos{
-    padding: 50px;
-}
-
-i{
-    color: #00e003;
-    font-size: 60px;
-    position: fixed;
-    right: 20px;
-    top: 570px;
-}
-/*
-.chackra_corona_position {
-    position: absolute;
-}
-*/
-
-.Chackras_flex{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content:space-between;
-}
-
-.chakras_Corona{
+@media screen and (max-width: 576px) {
+  .chakras_Corona {
     background-image: linear-gradient(269deg, #f086ee 0%, #f086ee 24%, #FFF 100%);
     height: 700px;
     display: block;
-}
-.chakras_Corona h2{
+  }
+  .chakras_Corona h2 {
     font-size: 20px;
     color: #484537;
     padding: 35px 10px 0px 10px;
-}
-
-.chakras_Corona p{
+  }
+  .chakras_Corona h2 p {
     font-size: 20px;
     width: 5px;
     padding: 40px 0px 0px 0px;
     display: flex;
-}
-
-.chakras_Tercer_ojo{
+  }
+  .chakras_Tercer_ojo {
     background-image: linear-gradient(269deg, #2a47a3 0%, #2a47a3 24%, #FFF 100%);
     height: 700px;
     display: block;
-}
-
-.chakras_Tercer_ojo h2{
+  }
+  .chakras_Tercer_ojo h2 {
     font-size: 20px;
     color: #484537;
     padding: 35px 10px 0px 10px;
-}
-
-.chakras_Tercer_ojo p{
+  }
+  .chakras_Tercer_ojo h2 p {
     font-size: 20px;
     width: 5px;
     padding: 40px 0px 0px 0px;
     display: flex;
-}
-
-.Chakra_Laringeo{
+  }
+  .Chakra_Laringeo {
     background-image: linear-gradient(269deg, #82c6eb 0%, #82c6eb 24%, #FFF 100%);
     height: 700px;
     display: block;
-}
-
-.Chakra_Laringeo h2{
+  }
+  .Chakra_Laringeo h2 {
     font-size: 20px;
     color: #484537;
     padding: 35px 10px 0px 10px;
-}
-
-.Chakra_Laringeo p{
+  }
+  .Chakra_Laringeo h2 p {
     font-size: 20px;
     width: 5px;
     padding: 40px 0px 0px 0px;
     display: flex;
-}
-
-
-.Chakra_del_Plexo_Cardiaco{
+  }
+  .Chakra_del_Plexo_Cardiaco {
     background-image: linear-gradient(269deg, #67c68e 0%, #67c68e 24%, #FFF 100%);
     height: 700px;
     display: block;
-}
-
-.Chakra_del_Plexo_Cardiaco h2{
+  }
+  .Chakra_del_Plexo_Cardiaco h2 {
     font-size: 20px;
     color: #484537;
     padding: 35px 10px 0px 10px;
-}
-
-.Chakra_del_Plexo_Cardiaco p{
+  }
+  .Chakra_del_Plexo_Cardiaco h2 p {
     font-size: 20px;
     width: 5px;
     padding: 40px 0px 0px 0px;
     display: flex;
-}
-
-.Chakra_del_Plexo_Solar{
+  }
+  .Chakra_del_Plexo_Solar {
     background-image: linear-gradient(269deg, #fdd06b 0%, #fdd06b 24%, #FFF 100%);
     height: 700px;
     display: block;
-}
-
-.Chakra_del_Plexo_Solar h2{
+  }
+  .Chakra_del_Plexo_Solar h2 {
     font-size: 20px;
     color: #484537;
     padding: 35px 10px 0px 10px;
-}
-
-.Chakra_del_Plexo_Solar p{
+  }
+  .Chakra_del_Plexo_Solar h2 p {
     font-size: 20px;
     width: 5px;
     padding: 40px 0px 0px 0px;
     display: flex;
-}
-
-.Chakra_Sexual{
+  }
+  .Chakra_Sexual {
     background-image: linear-gradient(269deg, #f7b072 0%, #f7b072 24%, #FFF 100%);
     height: 700px;
     display: block;
-}
-
-.Chakra_Sexual h2{
+  }
+  .Chakra_Sexual h2 {
     font-size: 20px;
     color: #484537;
     padding: 35px 10px 0px 10px;
-}
-
-.Chakra_Sexual p{
+  }
+  .Chakra_Sexual h2 p {
     font-size: 20px;
     width: 5px;
     padding: 40px 0px 0px 0px;
     display: flex;
-}
-
-.Chakra_Raiz{
+  }
+  .Chakra_Raiz {
     background-image: linear-gradient(269deg, #e67177 0%, #e67177 24%, #FFF 100%);
     height: 700px;
     display: block;
-}
-
-.Chakra_Raiz h2{
+  }
+  .Chakra_Raiz h2 {
     font-size: 20px;
     color: #484537;
     padding: 35px 10px 0px 10px;
-}
-
-.Chakra_Raiz p{
+  }
+  .Chakra_Raiz h2 p {
     font-size: 20px;
     width: 5px;
     padding: 40px 0px 0px 0px;
     display: flex;
+  }
+  .Chackras_flex {
+    display: contents;
+  }
+}
+.Chackras_flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
-@media screen and (max-width: 576px) {
-   .Chackras_flex{
-        display: contents;
+/*
+@for $i from 1 through 7 {
+    .chakras_Corona:{
+        background-image: nth($colores_chakras, $i );
+        @include  chakras(nth($espacios_medidas,23),
+                          nth($display_list,2));
+        h2{
+            @include chakras_h2(nth($espacios_medidas,7), 
+                                nth($colores,2),  
+                                nth($padding_list,2));
+          p{
+            @include chakras_p(nth($espacios_medidas,7), 
+                               nth($espacios_medidas,3),  
+                               nth($padding_list,1),
+                               nth($display_list,1));
+          }
+        }    
     }
-    .chakras_Corona{
-        height: 327px;
-      /*  Display: contents;
-        background-image: linear-gradient(269deg, #f086ee 0%, #f086ee 24%, #FFF 100%);
- */   }
-    .chakras_Corona h2{
-        padding: 35px 4px 20px 208px;
-    }
-    .chakras_Corona p{
-        font-size: 20px;
-        width: 0px;
-        padding: 40px 0px 0px 0px;
-        display: contents;         
-    }
-
-    .chakras_Tercer_ojo{
-        height: 327px;
-      /*  Display: contents;
-        background-image: linear-gradient(269deg, #2a47a3 0%, #2a47a3 24%, #FFF 100%);
- */   }
-    .chakras_Tercer_ojo h2{
-        padding: 35px 4px 20px 208px;
-    }
-    .chakras_Tercer_ojo p{
-        font-size: 20px;
-        width: 0px;
-        padding: 40px 0px 0px 0px;
-        display: contents;         
-    }
-
-    .Chakra_Laringeo{
-        height: 327px;
-       /* Display: contents;*/
-    }
-    .Chakra_Laringeo h2{
-        padding: 35px 4px 20px 208px;
-    }
-    .Chakra_Laringeo p{
-        font-size: 20px;
-        width: 0px;
-        padding: 40px 0px 0px 0px;
-        display: contents;         
-    }
-
-    .Chakra_del_Plexo_Cardiaco{
-        height: 327px;
-       /* Display: contents;*/
-    }
-    .Chakra_del_Plexo_Cardiaco h2{
-        padding: 35px 4px 20px 208px;
-    }
-    .Chakra_del_Plexo_Cardiaco p{
-        font-size: 20px;
-        width: 0px;
-        padding: 40px 0px 0px 0px;
-        display: contents;         
-    }
-
-    .Chakra_del_Plexo_Solar{
-        height: 327px;
-     /*   Display: contents;*/
-    }
-    .Chakra_del_Plexo_Solar h2{
-        padding: 35px 4px 20px 208px;
-    }
-    .Chakra_del_Plexo_Solar p{
-        font-size: 20px;
-        width: 0px;
-        padding: 40px 0px 0px 0px;
-        display: contents;         
-    }
-
-    .Chakra_Sexual{
-        height: 327px;
-       /* Display: contents;*/
-    }
-    .Chakra_Sexual h2{
-        padding: 35px 4px 20px 208px;
-    }
-    .Chakra_Sexual p{
-        font-size: 20px;
-        width: 0px;
-        padding: 40px 0px 0px 0px;
-        display: contents;         
-    }
-
-    .Chakra_Raiz{
-        height: 327px;
-    }
-    .Chakra_Raiz h2{
-        padding: 35px 4px 20px 208px;
-    }
-    .Chakra_Raiz p{
-        font-size: 20px;
-        width: 0px;
-        padding: 40px 0px 0px 0px;
-        display: contents;         
-    }
-    .footer_mapa{
-        display: none;
-    
-    }
-
-    .logo_principal {
-        display: none;
-    }
-    
-    footer {
-        background-color: rgb(183, 53, 215,0.7);
-        padding: 20px;
-        height: 256px;
-
-    
-      
+}*/
+* {
+  margin: 0px;
+  padding: 0px;
 }
 
+#Fondo_principal {
+  border-top-style: none;
+  background-repeat: none;
+  background-size: cover;
+  background-image: linear-gradient(275deg, #ca70e2 0%, #ca70e2 24%, #FFF 100%);
 }
 
-
-
-
-
- 
-.footer_flex{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 67px;
-    justify-content: space-between;
+.header_flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 124px;
 }
 
-.footer_icons_flex{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    gap: 37px;
+h1 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 10px;
 }
 
-.footer_datos_flex{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    gap: 35px;
+body header nav ul li {
+  font-size: 50px;
+  text-decoration: none;
+  margin: 10px 20px;
 }
-
-.footer_datos_flex a{
-    font-size: 12px;
+body header nav ul li a {
+  text-decoration: none;
 }
-
-.footer_datos_p_flex{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-
-}
-
-.footer_p_datos{
-    height: 10px;
-    width: 10px;
-
-}
-
-.footer_des{
-    font-size: 15px;
-
-}
-
-.header_flex{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    height: 124px;
-}
-
-.reiki{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
 
 .nav_detalles {
-    padding: 0px;
-    font-size: 30px;
-    font-weight: var(--bs-nav-link-font-weight);
-    color: rgb(95 85 9 / 65%);
-    text-decoration: none;
-    font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
-
+  padding: 0px;
+  font-size: 30px;
+  font-weight: var(--bs-nav-link-font-weight);
+  color: rgba(95, 85, 9, 0.65);
+  text-decoration: none;
+  font-family: brandon-grot-w01-light, brandon-grot-w05-light, sans-serif;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
 
-.reiki_web{
-    display: block;
+.icon_header {
+  width: 84px;
+  height: 103px;
+  padding-top: 35px;
 }
 
-.reiki_mobile{
-    display: none;
+.h1_text {
+  padding-top: 50px;
 }
-
 
 @media screen and (max-width: 576px) {
-
-    .reiki_web{
-        display: none;
-    }
-
-    .reiki_mobile{
-        display: block;
-    }
-
-    .nav_detalles {
-        padding: 0px;
-        font-size: 20px;
-        font-weight: var(--bs-nav-link-font-weight);
-        color: rgb(95 85 9 / 65%);
-        text-decoration: none;
-        font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
-        transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
-    
-    }
-
-    body header nav ul li {
-        font-size: 50px;
-        text-decoration: none;
-        margin: -5px 20px;
-    }
+  body header nav ul li {
+    font-size: 50px;
+    text-decoration: none;
+    margin: -5px 20px;
+  }
+  .nav_detalles {
+    padding: 0px;
+    font-size: 20px;
+    font-weight: var(--bs-nav-link-font-weight);
+    color: rgba(95, 85, 9, 0.65);
+    text-decoration: none;
+    font-family: brandon-grot-w01-light, brandon-grot-w05-light, sans-serif;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  }
+}
+footer {
+  background-color: rgba(183, 53, 215, 0.7);
+  padding: 20px;
+  height: 190px;
 }
 
-
-.icon_header{
-    width: 84px;
-    height: 103px;
-    padding-top: 36px;
+@media screen and (max-width: 576px) {
+  .footer_mapa {
+    display: none;
+  }
+  .logo_principal {
+    display: none;
+  }
+  footer {
+    background-color: rgba(183, 53, 215, 0.7);
+    padding: 20px;
+    height: 256px;
+  }
+}
+.footer_flex {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 67px;
+  justify-content: space-between;
 }
 
-.flex{
-    display: flex;
-    flex-wrap: wrap;
+.footer_icons_flex {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 37px;
 }
+
+.footer_datos_flex {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 35px;
+}
+
+.footer_datos_flex a {
+  font-size: 12px;
+}
+
+.footer_datos_p_flex {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.footer_p_datos {
+  height: 10px;
+  width: 10px;
+}
+
+.footer_des {
+  font-size: 15px;
+}
+
+.reiki {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.reiki_web {
+  display: block;
+}
+
+.reiki_mobile {
+  display: none;
+}
+
+@media screen and (max-width: 576px) {
+  .reiki_web {
+    display: none;
+  }
+  .reiki_mobile {
+    display: block;
+  }
+}
+p {
+  font-family: brandon-grot-w01-light, brandon-grot-w05-light, sans-serif;
+  letter-spacing: 0.05em;
+}
+
+.main_incio {
+  display: flex;
+}
+
+.parro_flex {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 10px;
+}
+
+.parro_flex p {
+  padding: 10px 10px;
+}
+
+.Terapias_position {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Imagen_redonda {
+  border-radius: 150px;
+}
+
+.Imagen_position {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 20px;
+  margin: 0px;
+}
+
+.Texto_terapia {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.Titulos {
+  font-size: 50px;
+  font-family: brandon-grot-w01-light, brandon-grot-w05-light, sans-serif;
+  letter-spacing: 0.05em;
+  text-align: center;
+}
+
+.parrafos_textos {
+  padding: 50px;
+}
+
+i {
+  color: #00e003;
+  font-size: 60px;
+  position: fixed;
+  right: 20px;
+  top: 570px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=style.css.map */

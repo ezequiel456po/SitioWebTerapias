@@ -1,0 +1,65 @@
+$colores_chakras:
+linear-gradient(269deg, #f086ee 0%, #f086ee 24%, #FFF 100%),
+linear-gradient(269deg, #2a47a3 0%, #2a47a3 24%, #FFF 100%),
+linear-gradient(269deg, #82c6eb 0%, #82c6eb 24%, #FFF 100%),
+linear-gradient(269deg, #67c68e 0%, #67c68e 24%, #FFF 100%),
+linear-gradient(269deg, #fdd06b 0%, #fdd06b 24%, #FFF 100%),
+linear-gradient(269deg, #f7b072 0%, #f7b072 24%, #FFF 100%),
+linear-gradient(269deg, #e67177 0%, #e67177 24%, #FFF 100%);
+
+$colores:
+rgb(183, 53, 215,0.7),
+#484537,
+#00e003,
+rgb(95 85 9 / 65%),
+linear-gradient(275deg, #ca70e2 0%, #ca70e2 24%, #FFF 100%);
+
+
+$espacios_medidas:
+-5px,
+0px,
+5px,
+10px,
+12px,
+15px,
+20px,
+30px,
+35px,
+40px,
+60px,
+67px,
+84px,
+103px,
+124px,
+150px,
+190px,
+208px,
+256px,
+327px,
+570px,
+576px,
+700px,
+50px,
+37px;
+
+$padding_list:
+40px 0px 0px 0px,
+35px 10px 0px 10px,
+10px 10px,
+20px 20px;
+
+$margin_list:
+10px 20px,
+-5px 20px;
+
+
+$display_list:
+flex,
+block,
+none,
+contents;
+
+//Ejemplo
+//.parrafo{
+//    color: nth($colores , 4);
+//}

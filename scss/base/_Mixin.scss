@@ -1,0 +1,19 @@
+@mixin chakras($h_chakra,$d_chakra){
+    height: $h_chakra;
+    display: $d_chakra;
+}
+
+@mixin chakras_h2($f_z_chakra,$c_chakra,$padding_chakra){
+    font-size: $f_z_chakra;
+    color: $c_chakra;
+    padding: $padding_chakra;
+}
+
+@mixin chakras_p($f_z_chakra,$w_chakra,$padding_chakra,$d_chakra){
+    font-size: $f_z_chakra;
+    width: $w_chakra;
+    padding: $padding_chakra;
+    display: $d_chakra;
+}
+
+

@@ -1,0 +1,30 @@
+
+
+.reiki{
+    display: nth($display_list, 1);
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+.reiki_web{
+    display: nth($display_list, 2);
+}
+
+.reiki_mobile{
+    display: nth($display_list, 3);
+}
+
+
+@media screen and (max-width: nth($espacios_medidas,22)) {
+
+    .reiki_web{
+        display: nth($display_list, 3);
+    }
+
+    .reiki_mobile{
+        display: nth($display_list, 2);
+    }
+
+}

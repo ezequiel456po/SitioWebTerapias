@@ -1,0 +1,34 @@
+
+.Texto_terapia{
+    display: nth($display_list, 1);
+    justify-content:space-around;
+    padding: nth($espacios_medidas, 7);
+}
+
+
+
+.Titulos{
+    font-size: nth($espacios_medidas, 24);
+    font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
+    letter-spacing: 0.05em;
+    text-align: center;
+}
+
+.parrafos_textos{
+    padding: nth($espacios_medidas, 24);;
+}
+
+i{
+    color: nth($colores, 3);
+    font-size: nth($espacios_medidas, 11);
+    position: fixed;
+    right: nth($espacios_medidas, 7);
+    top: nth($espacios_medidas, 21);
+}
+
+.flex{
+    display: nth($display_list, 1);
+    flex-wrap: wrap;
+}
+
+

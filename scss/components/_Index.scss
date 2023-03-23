@@ -1,0 +1,40 @@
+p{
+    font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
+    letter-spacing: 0.05em;
+}
+
+
+
+
+.main_incio{
+    display: nth($display_list, 1);
+}
+
+.parro_flex{
+    display: nth($display_list, 1);
+    flex-direction: column;
+    padding: nth($padding_list, 3);
+}
+
+.parro_flex p{
+    padding: nth($padding_list, 3);
+}
+
+
+.Terapias_position{
+    display: nth($display_list, 1);
+    justify-content:space-around;
+
+}
+
+.Imagen_redonda{
+    border-radius:nth($espacios_medidas, 16);
+}
+
+.Imagen_position{
+    display: nth($display_list, 1);
+    justify-content:space-around;
+    padding: nth($padding_list, 4);
+    margin: nth($espacios_medidas, 2);
+}
+

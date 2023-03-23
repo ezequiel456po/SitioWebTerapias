@@ -1,0 +1,100 @@
+*{
+    margin: nth($espacios_medidas, 2 );
+    padding: nth($espacios_medidas, 2 );
+}
+
+
+#Fondo_principal{
+    border-top-style: none;
+    background-repeat: none;
+    background-size: cover;
+    background-image: nth($colores, 5 );
+}
+
+
+.header_flex{
+    display: nth($display_list, 1);
+    flex-wrap: wrap;
+    justify-content: center;
+    height: nth($espacios_medidas, 15 );
+}
+
+h1{
+    display: nth($display_list, 1);
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: nth($espacios_medidas, 4 );
+}
+
+body{
+    header{
+      nav{
+        ul{
+          li{
+            font-size: nth($espacios_medidas, 24 );
+            text-decoration: none;
+            margin: nth($margin_list,1 );
+          a{
+            text-decoration: none;
+          }
+        }
+        }
+      }
+    }
+  }
+
+.nav_detalles {
+    padding: nth($espacios_medidas, 2 );
+    font-size: nth($espacios_medidas, 8 );
+    font-weight: var(--bs-nav-link-font-weight);
+    color: nth($colores, 4 );
+    text-decoration: none;
+    font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+
+} 
+
+.icon_header{
+    width: nth($espacios_medidas, 13 );
+    height: nth($espacios_medidas, 14 );
+    padding-top: nth($espacios_medidas, 9 );
+}
+
+.h1_text{
+    padding-top: nth($espacios_medidas, 24 );
+}
+
+  
+
+@media screen and (max-width: nth($espacios_medidas,22)) {
+
+
+    body{
+        header{
+          nav{
+            ul{
+              li{
+                font-size: nth($espacios_medidas, 24 );
+                text-decoration: none;
+                margin: nth($margin_list,2 );
+               }
+            }
+          }
+        }
+      }
+      
+    .nav_detalles {
+        padding:nth($espacios_medidas, 2 );;
+        font-size: nth($espacios_medidas, 7 );
+        font-weight: var(--bs-nav-link-font-weight);
+        color: nth($colores, 4 );
+        text-decoration: none;
+        font-family: brandon-grot-w01-light,brandon-grot-w05-light,sans-serif;
+        transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    
+    }
+}
+
+
+
+
