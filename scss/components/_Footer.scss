@@ -23,6 +23,20 @@ footer {
          background-color: nth($colores, 1 );
          padding: nth($espacios_medidas, 7 );
          height: nth($espacios_medidas, 19 );
+
+    .footer_flex{
+            display: nth($display_list, 1);
+            flex-wrap: wrap;
+            gap: nth($espacios_medidas, 2 );
+            justify-content: space-between;
+        }
+
+    .footer_altura_links{
+            height: nth($espacios_medidas, 10 );
+            margin: nth($margin_list, 3 );
+            padding: nth($padding_list, 10 );
+          }
+        
  
      
        
@@ -72,3 +86,9 @@ footer {
      font-size: nth($espacios_medidas, 6 );
  
  }
+
+ .footer_altura_links{
+    height: nth($espacios_medidas, 11 );
+    padding: nth($espacios_medidas, 2 );
+    margin:nth($espacios_medidas, 2 );
+  }

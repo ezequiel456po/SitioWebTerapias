@@ -29,6 +29,7 @@ p{
 
 .Imagen_redonda{
     border-radius:nth($espacios_medidas, 16);
+    width: nth($espacios_medidas, 19);
 }
 
 .Imagen_position{
@@ -38,3 +39,87 @@ p{
     margin: nth($espacios_medidas, 2);
 }
 
+.text_center{
+    display: nth($display_list, 1);
+    justify-content: center;
+    padding: nth($padding_list, 8);
+  }
+  .video_oculto{
+    display: nth($display_list, 3);
+  }
+  
+  .video_oculto{
+    display: nth($display_list, 2);
+  }
+  
+  .text_center_hierbas{
+    padding: nth($padding_list, 7);
+    margin: nth($margin_list, 6);
+  }
+  
+  .image_center_hierbas{
+    margin: nth($padding_list, 5);
+  }
+
+  .Chica_masaje{
+    display: nth($display_list, 1);
+  }
+
+  .image_transform{
+    transition:all 2s;
+  }
+  
+  .image_transform:hover{
+    transform: scale(2);
+  }
+  
+  .video{
+    padding: nth($padding_list, 9);
+  }
+
+  .text_comment{
+    font-size: nth($espacios_medidas, 5);
+  }
+  
+  .descripcion_personal{
+    width: nth($espacios_medidas, 26);
+    font-size: nth($espacios_medidas, 5);
+  }
+
+
+ 
+@media screen and (max-width: nth($espacios_medidas,22)){ 
+
+    .video_oculto{
+        display: nth($display_list, 3);
+    }
+
+    .text_center_hierbas{
+    padding: nth($espacios_medidas, 2);
+    margin: nth($espacios_medidas, 2);
+    }
+
+    .image_center_hierbas{
+    margin: nth($espacios_medidas, 2);
+    }
+
+    .text_center{
+    display: nth($display_list, 1);
+    justify-content: center;
+    padding: nth($espacios_medidas, 2);
+    }
+
+    .Chica_masaje{
+      display: nth($display_list, 3);
+    }
+
+    .text_comment{
+      font-size: nth($espacios_medidas, 6);
+    }
+
+    .descripcion_personal{
+      width: nth($espacios_medidas, 27);
+      font-size: nth($espacios_medidas, 5);
+    }
+    
+}

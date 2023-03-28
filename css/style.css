@@ -1,23 +1,23 @@
-.chakras_Coroa {
+.chakras_Corona {
   background-image: linear-gradient(269deg, #f086ee 0%, #f086ee 24%, #FFF 100%);
-  height: 700px;
+  height: 884px;
   display: block;
 }
-.chakras_Coroa h2 {
+.chakras_Corona h2 {
   font-size: 20px;
   color: #484537;
   padding: 35px 10px 0px 10px;
 }
-.chakras_Coroa h2 p {
-  font-size: 20px;
-  width: 5px;
-  padding: 40px 0px 0px 0px;
+.chakras_Corona p {
+  font-size: 12px;
+  width: 208px;
+  padding: 40px 0px 0px 10px;
   display: flex;
 }
 
 .chakras_Tercer_ojo {
   background-image: linear-gradient(269deg, #2a47a3 0%, #2a47a3 24%, #FFF 100%);
-  height: 700px;
+  height: 884px;
   display: block;
 }
 .chakras_Tercer_ojo h2 {
@@ -25,16 +25,16 @@
   color: #484537;
   padding: 35px 10px 0px 10px;
 }
-.chakras_Tercer_ojo h2 p {
-  font-size: 20px;
-  width: 5px;
-  padding: 40px 0px 0px 0px;
+.chakras_Tercer_ojo p {
+  font-size: 12px;
+  width: 208px;
+  padding: 40px 0px 0px 10px;
   display: flex;
 }
 
 .Chakra_Laringeo {
   background-image: linear-gradient(269deg, #82c6eb 0%, #82c6eb 24%, #FFF 100%);
-  height: 700px;
+  height: 884px;
   display: block;
 }
 .Chakra_Laringeo h2 {
@@ -42,16 +42,16 @@
   color: #484537;
   padding: 35px 10px 0px 10px;
 }
-.Chakra_Laringeo h2 p {
-  font-size: 20px;
-  width: 5px;
-  padding: 40px 0px 0px 0px;
+.Chakra_Laringeo p {
+  font-size: 12px;
+  width: 208px;
+  padding: 40px 0px 0px 10px;
   display: flex;
 }
 
 .Chakra_del_Plexo_Cardiaco {
   background-image: linear-gradient(269deg, #82c6eb 0%, #82c6eb 24%, #FFF 100%);
-  height: 700px;
+  height: 884px;
   display: block;
 }
 .Chakra_del_Plexo_Cardiaco h2 {
@@ -59,16 +59,16 @@
   color: #484537;
   padding: 35px 10px 0px 10px;
 }
-.Chakra_del_Plexo_Cardiaco h2 p {
-  font-size: 20px;
-  width: 5px;
-  padding: 40px 0px 0px 0px;
+.Chakra_del_Plexo_Cardiaco p {
+  font-size: 12px;
+  width: 208px;
+  padding: 40px 0px 0px 10px;
   display: flex;
 }
 
 .Chakra_del_Plexo_Cardiaco {
   background-image: linear-gradient(269deg, #67c68e 0%, #67c68e 24%, #FFF 100%);
-  height: 700px;
+  height: 884px;
   display: block;
 }
 .Chakra_del_Plexo_Cardiaco h2 {
@@ -76,16 +76,16 @@
   color: #484537;
   padding: 35px 10px 0px 10px;
 }
-.Chakra_del_Plexo_Cardiaco h2 p {
-  font-size: 20px;
-  width: 5px;
-  padding: 40px 0px 0px 0px;
+.Chakra_del_Plexo_Cardiaco p {
+  font-size: 12px;
+  width: 208px;
+  padding: 40px 0px 0px 10px;
   display: flex;
 }
 
 .Chakra_del_Plexo_Solar {
   background-image: linear-gradient(269deg, #fdd06b 0%, #fdd06b 24%, #FFF 100%);
-  height: 700px;
+  height: 884px;
   display: block;
 }
 .Chakra_del_Plexo_Solar h2 {
@@ -93,16 +93,16 @@
   color: #484537;
   padding: 35px 10px 0px 10px;
 }
-.Chakra_del_Plexo_Solar h2 p {
-  font-size: 20px;
-  width: 5px;
-  padding: 40px 0px 0px 0px;
+.Chakra_del_Plexo_Solar p {
+  font-size: 12px;
+  width: 208px;
+  padding: 40px 0px 0px 10px;
   display: flex;
 }
 
 .Chakra_Sexual {
   background-image: linear-gradient(269deg, #f7b072 0%, #f7b072 24%, #FFF 100%);
-  height: 700px;
+  height: 884px;
   display: block;
 }
 .Chakra_Sexual h2 {
@@ -110,16 +110,16 @@
   color: #484537;
   padding: 35px 10px 0px 10px;
 }
-.Chakra_Sexual h2 p {
-  font-size: 20px;
-  width: 5px;
-  padding: 40px 0px 0px 0px;
+.Chakra_Sexual p {
+  font-size: 12px;
+  width: 208px;
+  padding: 40px 0px 0px 10px;
   display: flex;
 }
 
 .Chakra_Raiz {
   background-image: linear-gradient(269deg, #e67177 0%, #e67177 24%, #FFF 100%);
-  height: 700px;
+  height: 884px;
   display: block;
 }
 .Chakra_Raiz h2 {
@@ -127,134 +127,117 @@
   color: #484537;
   padding: 35px 10px 0px 10px;
 }
-.Chakra_Raiz h2 p {
-  font-size: 20px;
-  width: 5px;
-  padding: 40px 0px 0px 0px;
+.Chakra_Raiz p {
+  font-size: 12px;
+  width: 208px;
+  padding: 40px 0px 0px 10px;
   display: flex;
 }
 
 @media screen and (max-width: 576px) {
   .chakras_Corona {
-    background-image: linear-gradient(269deg, #f086ee 0%, #f086ee 24%, #FFF 100%);
-    height: 700px;
-    display: block;
+    height: 556px;
   }
   .chakras_Corona h2 {
-    font-size: 20px;
-    color: #484537;
-    padding: 35px 10px 0px 10px;
+    padding: 0px 103px 0px 0px;
   }
-  .chakras_Corona h2 p {
-    font-size: 20px;
-    width: 5px;
+  .chakras_Corona p {
+    font-size: 15px;
+    width: 0px;
     padding: 40px 0px 0px 0px;
-    display: flex;
+    display: contents;
   }
   .chakras_Tercer_ojo {
-    background-image: linear-gradient(269deg, #2a47a3 0%, #2a47a3 24%, #FFF 100%);
-    height: 700px;
-    display: block;
+    height: 556px;
   }
   .chakras_Tercer_ojo h2 {
-    font-size: 20px;
-    color: #484537;
-    padding: 35px 10px 0px 10px;
+    padding: 0px 103px 0px 0px;
   }
-  .chakras_Tercer_ojo h2 p {
-    font-size: 20px;
-    width: 5px;
+  .chakras_Tercer_ojo p {
+    font-size: 15px;
+    width: 0px;
     padding: 40px 0px 0px 0px;
-    display: flex;
+    display: contents;
   }
   .Chakra_Laringeo {
-    background-image: linear-gradient(269deg, #82c6eb 0%, #82c6eb 24%, #FFF 100%);
-    height: 700px;
-    display: block;
+    height: 556px;
   }
   .Chakra_Laringeo h2 {
-    font-size: 20px;
-    color: #484537;
-    padding: 35px 10px 0px 10px;
+    padding: 0px 103px 0px 0px;
   }
-  .Chakra_Laringeo h2 p {
-    font-size: 20px;
-    width: 5px;
+  .Chakra_Laringeo p {
+    font-size: 15px;
+    width: 0px;
     padding: 40px 0px 0px 0px;
-    display: flex;
+    display: contents;
   }
   .Chakra_del_Plexo_Cardiaco {
-    background-image: linear-gradient(269deg, #67c68e 0%, #67c68e 24%, #FFF 100%);
-    height: 700px;
-    display: block;
+    height: 556px;
   }
   .Chakra_del_Plexo_Cardiaco h2 {
-    font-size: 20px;
-    color: #484537;
-    padding: 35px 10px 0px 10px;
+    padding: 0px 103px 0px 0px;
   }
-  .Chakra_del_Plexo_Cardiaco h2 p {
-    font-size: 20px;
-    width: 5px;
+  .Chakra_del_Plexo_Cardiaco p {
+    font-size: 15px;
+    width: 0px;
     padding: 40px 0px 0px 0px;
-    display: flex;
+    display: contents;
   }
   .Chakra_del_Plexo_Solar {
-    background-image: linear-gradient(269deg, #fdd06b 0%, #fdd06b 24%, #FFF 100%);
-    height: 700px;
-    display: block;
+    height: 556px;
   }
   .Chakra_del_Plexo_Solar h2 {
-    font-size: 20px;
-    color: #484537;
-    padding: 35px 10px 0px 10px;
+    padding: 0px 103px 0px 0px;
   }
-  .Chakra_del_Plexo_Solar h2 p {
-    font-size: 20px;
-    width: 5px;
+  .Chakra_del_Plexo_Solar p {
+    font-size: 15px;
+    width: 0px;
     padding: 40px 0px 0px 0px;
-    display: flex;
+    display: contents;
   }
   .Chakra_Sexual {
-    background-image: linear-gradient(269deg, #f7b072 0%, #f7b072 24%, #FFF 100%);
-    height: 700px;
-    display: block;
+    height: 556px;
   }
   .Chakra_Sexual h2 {
-    font-size: 20px;
-    color: #484537;
-    padding: 35px 10px 0px 10px;
+    padding: 0px 103px 0px 0px;
   }
-  .Chakra_Sexual h2 p {
-    font-size: 20px;
-    width: 5px;
+  .Chakra_Sexual p {
+    font-size: 15px;
+    width: 0px;
     padding: 40px 0px 0px 0px;
-    display: flex;
+    display: contents;
   }
   .Chakra_Raiz {
-    background-image: linear-gradient(269deg, #e67177 0%, #e67177 24%, #FFF 100%);
-    height: 700px;
-    display: block;
+    height: 556px;
   }
   .Chakra_Raiz h2 {
-    font-size: 20px;
-    color: #484537;
-    padding: 35px 10px 0px 10px;
+    padding: 0px 103px 0px 0px;
   }
-  .Chakra_Raiz h2 p {
-    font-size: 20px;
-    width: 5px;
+  .Chakra_Raiz p {
+    font-size: 15px;
+    width: 0px;
     padding: 40px 0px 0px 0px;
-    display: flex;
+    display: contents;
   }
   .Chackras_flex {
     display: contents;
+  }
+  .Position_signo_chakra {
+    padding: 0px 0px 0px 185px;
   }
 }
 .Chackras_flex {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+}
+
+.Position_signo_chakra {
+  padding: 0px 0px 0px 10px;
+}
+
+.Position_signo_chakra_corazon {
+  padding: 0px 0px 0px 38px;
 }
 
 /*
@@ -365,6 +348,17 @@ footer {
     padding: 20px;
     height: 256px;
   }
+  footer .footer_flex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0px;
+    justify-content: space-between;
+  }
+  footer .footer_altura_links {
+    height: 40px;
+    margin: 0px 0px 0px 135px;
+    padding: 0px 84px 0px 0px;
+  }
 }
 .footer_flex {
   display: flex;
@@ -404,6 +398,12 @@ footer {
 
 .footer_des {
   font-size: 15px;
+}
+
+.footer_altura_links {
+  height: 60px;
+  padding: 0px;
+  margin: 0px;
 }
 
 .reiki {
@@ -454,6 +454,7 @@ p {
 
 .Imagen_redonda {
   border-radius: 150px;
+  width: 256px;
 }
 
 .Imagen_position {
@@ -463,6 +464,81 @@ p {
   margin: 0px;
 }
 
+.text_center {
+  display: flex;
+  justify-content: center;
+  padding: 0px 145px 0px 0px;
+}
+
+.video_oculto {
+  display: none;
+}
+
+.video_oculto {
+  display: block;
+}
+
+.text_center_hierbas {
+  padding: 0px 0px 0px 2px;
+  margin: 0px 20px;
+}
+
+.image_center_hierbas {
+  margin: 0px 103px 0px 0px;
+}
+
+.Chica_masaje {
+  display: flex;
+}
+
+.image_transform {
+  transition: all 2s;
+}
+
+.image_transform:hover {
+  transform: scale(2);
+}
+
+.video {
+  padding: 142px 0px 60px 244px;
+}
+
+.text_comment {
+  font-size: 12px;
+}
+
+.descripcion_personal {
+  width: 280px;
+  font-size: 12px;
+}
+
+@media screen and (max-width: 576px) {
+  .video_oculto {
+    display: none;
+  }
+  .text_center_hierbas {
+    padding: 0px;
+    margin: 0px;
+  }
+  .image_center_hierbas {
+    margin: 0px;
+  }
+  .text_center {
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+  }
+  .Chica_masaje {
+    display: none;
+  }
+  .text_comment {
+    font-size: 15px;
+  }
+  .descripcion_personal {
+    width: 476px;
+    font-size: 12px;
+  }
+}
 .Texto_terapia {
   display: flex;
   justify-content: space-around;
@@ -491,6 +567,10 @@ i {
 .flex {
   display: flex;
   flex-wrap: wrap;
+}
+
+.Terapias_logo_terapia {
+  padding: 0px 0px 0px 460px;
 }
 
 /*# sourceMappingURL=style.css.map */
