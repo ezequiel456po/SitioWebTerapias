@@ -121,5 +121,10 @@ p{
       width: nth($espacios_medidas, 27);
       font-size: nth($espacios_medidas, 5);
     }
+
+    .Imagen_redonda{
+      border-radius:nth($espacios_medidas, 16);
+      width: nth($espacios_medidas, 17);
+  }
     
 }

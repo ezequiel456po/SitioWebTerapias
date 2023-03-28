@@ -356,7 +356,7 @@ footer {
   }
   footer .footer_altura_links {
     height: 40px;
-    margin: 0px 0px 0px 135px;
+    margin: 0px 0px 0px 103px;
     padding: 0px 84px 0px 0px;
   }
 }
@@ -538,6 +538,10 @@ p {
     width: 476px;
     font-size: 12px;
   }
+  .Imagen_redonda {
+    border-radius: 150px;
+    width: 190px;
+  }
 }
 .Texto_terapia {
   display: flex;
@@ -571,6 +575,12 @@ i {
 
 .Terapias_logo_terapia {
   padding: 0px 0px 0px 460px;
+}
+
+@media screen and (max-width: 576px) {
+  .Terapias_logo_terapia {
+    padding: 0px;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
