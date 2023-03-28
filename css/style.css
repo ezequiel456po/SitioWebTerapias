@@ -582,5 +582,10 @@ i {
     padding: 0px;
   }
 }
+@media screen and (max-width: 576px) {
+  .footer_mapa_principal {
+    width: 500px;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
