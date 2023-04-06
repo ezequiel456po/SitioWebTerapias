@@ -5,5 +5,9 @@
 @media screen and (max-width: nth($espacios_medidas,22)) {
     .Terapias_logo_terapia{
         padding: nth($espacios_medidas, 2 );
+        margin: nth($margin_list, 8 );
+        height: nth($espacios_medidas, 31 );
+        width: nth($espacios_medidas, 31 );
+
     }
 }

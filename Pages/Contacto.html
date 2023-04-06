@@ -48,18 +48,51 @@
           </nav>
     </header>
     <main>
-        <iframe class="footer_mapa_principal" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3405.613857260385!2d-64.19083428526982!3d-31.39720918141057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94329866a9c8e485%3A0x5005580ea0513094!2zSm9zw6kgTWFyw61hIEJlZG95YSA4NTAsIFg1MDAwIEPDs3Jkb2Jh!5e0!3m2!1ses!2sar!4v1675715203128!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe class="footer_mapa_principal" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3405.613857260385!2d-64.19083428526982!3d-31.39720918141057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94329866a9c8e485%3A0x5005580ea0513094!2zSm9zw6kgTWFyw61hIEJlZG95YSA4NTAsIFg1MDAwIEPDs3Jkb2Jh!5e0!3m2!1ses!2sar!4v1675715203128!5m2!1ses!2sar" width="500" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </main>
-    <section>
-      <p>Nuestro sitio web es un espacio dedicado a las terapias holísticas, un enfoque integral de sanación que aborda el bienestar 
-        físico, mental y emocional. Ofrecemos una amplia variedad de técnicas de sanación energética, desde la acupuntura y el reiki 
-        hasta la terapia de masajes y la biodescodificación. Nuestra misión es ayudar a las personas a encontrar el equilibrio y 
-        la armonía en sus vidas, tratando no sólo sus síntomas, sino también las causas subyacentes de sus desequilibrios. 
-        Nuestros terapeutas están altamente capacitados y comprometidos con la práctica de la sanación holística, 
-        y trabajan con cada persona de manera individual para diseñar un plan de tratamiento personalizado que se adapte a sus
-         necesidades únicas. Nos esforzamos por brindar un ambiente seguro y acogedor para nuestros pacientes, y esperamos poder 
-         ayudar a más personas a alcanzar el bienestar óptimo a través de nuestras terapias holísticas. 
-    </section>
+    <form action="#" method="post">
+      <fieldset>
+        <legend>Datos personales:</legend>
+        <p>
+          <label for="nombre">Nombre:</label>
+          <input type="text" id="nombre" name="nombre" required />
+        </p>
+        <p>
+          <label for="apellido">Apellido:</label>
+          <input type="text" id="apellido" name="apellido" required />
+        </p>
+        <p>
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required />
+        </p>
+        <p>
+          <label for="telefono">Teléfono:</label>
+          <input type="tel" id="telefono" name="telefono" />
+        </p>
+      </fieldset>
+      <fieldset>
+        <legend>Datos de la cuenta:</legend>
+        <p>
+          <label for="usuario">Usuario:</label>
+          <input type="text" id="usuario" name="usuario" required />
+        </p>
+        <p>
+          <label for="password">Contraseña:</label>
+          <input type="password" id="password" name="password" required />
+        </p>
+      </fieldset>
+      <fieldset>
+        <legend>Comentarios:</legend>
+        <p>
+          <label for="comentarios">Comentarios:</label>
+          <textarea id="comentarios" name="comentarios"></textarea>
+        </p>
+      </fieldset>
+      <p>
+        <button type="submit">Enviar</button>
+        <button type="reset">Limpiar</button>
+      </p>
+    </form>
     <footer>           
       <div class="footer_flex">
         <div class="footer_datos_p_flex">
