@@ -357,7 +357,7 @@ footer {
   footer .footer_altura_links {
     height: 40px;
     margin: 0px;
-    padding: 0px 84px 0px 0px;
+    padding: 0px 25px 0px 0px;
   }
 }
 .footer_flex {
@@ -540,7 +540,8 @@ p {
   }
   .Imagen_redonda {
     border-radius: 150px;
-    width: 190px;
+    width: 100px;
+    height: 100px;
   }
 }
 .Texto_terapia {

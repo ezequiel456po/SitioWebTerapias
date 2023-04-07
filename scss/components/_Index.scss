@@ -124,7 +124,8 @@ p{
 
     .Imagen_redonda{
       border-radius:nth($espacios_medidas, 16);
-      width: nth($espacios_medidas, 17);
+      width: nth($espacios_medidas, 33);
+      height: nth($espacios_medidas, 33);
   }
     
 }
